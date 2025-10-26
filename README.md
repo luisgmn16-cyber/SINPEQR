@@ -38,7 +38,7 @@ App Android súper simple para **cobrar** y **pagar** con SINPE Móvil usando **
 > Si usas otros nombres, ajusta las rutas.
 
 | Pantalla | Captura |
-|---|---|
+|---|---|https://github.com/luisgmn16-cyber/SINPEQR/blob/main/01_home.jpeg
 | 01. Inicio | ![Inicio](docs/screens/01_home.jpeg) |
 | 02. Menú (⋮) | ![Menú](docs/screens/02_overflow.jpg) |
 | 03. PIN | ![PIN](docs/screens/03_pin.jpg) |
